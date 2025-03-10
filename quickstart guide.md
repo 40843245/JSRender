@@ -13,7 +13,7 @@ Similarly, you can install JsViews module with npm command in command-line promp
 npm install jsviews
 ```
 
-## load JsRender module
+## load JsRender
 There are three options to load JsRender in the browser as a webpack module (with `require` function call).
 
 + Load jQuery globally (as a script tag – so `window.jQuery` is defined), then load JsRender as a module in the webpack client script bundle:
@@ -112,3 +112,22 @@ There are three options to load JsRender in the browser as a webpack module (wit
 **command line:**
 
     webpack ./source.js bundle.js
+
+## load JsViews
+Similarly, you can load JsView with `require` function call.
+
++ if jQuery is loaded globally:
+
+```
+require('jsviews');    // Load JsViews (if jQuery is loaded globally)
+```
+
++ or if also loading jQuery as a webpack module
+
+```
+var $ = require('jquery');
+require('jsviews')($); // Load JsViews (passing local jQuery instance as parameter)
+```
+
+## reference
+[JsRender on Node.js and Webpack support for JsRender and JsViews](https://www.jsviews.com/#node/webpack@jsrender)
