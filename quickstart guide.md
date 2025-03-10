@@ -1,4 +1,14 @@
 # quickstart guide
+## install Node.JS
+See [quickstart guide.md in JS repo](https://github.com/40843245/JS/blob/main/quickstart%20guide.md)
+
+## install npm command-line tool
+See [quickstart guide.md in JS repo](https://github.com/40843245/JS/blob/main/quickstart%20guide.md)
+
+## create a new project
+### create a new project using WebPack
+See [Getting Started (WebPack docs)](https://webpack.js.org/guides/getting-started/)
+
 ## install JsRender module
 You can install JsRender module with npm command in command-line prompt.
 
