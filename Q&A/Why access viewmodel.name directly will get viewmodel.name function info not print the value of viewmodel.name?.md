@@ -251,3 +251,6 @@ nico.buy(book1);
 </body>
 </html>
 ```
+
+### fixed code
+See [fixed example 1 section in this article](https://github.com/40843245/JSRender/blob/main/ViewModel/$.views.viewModels/$.views.viewModels%20method.md#fixed-example-1)
