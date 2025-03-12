@@ -52,7 +52,7 @@ I ask
 ```
 Why 
 
-```
+\`\`\`
 <!DOCTYPE html5>
 <!-- To run the current sample code in your own environment, copy this to an html page. -->
 
@@ -123,11 +123,11 @@ nico.buy(book1);
 </body>
 </html>
 
-```
+\`\`\`
 
 print it on the console of webbrowser developement tool?
 
-```
+\`\`\`
 The person function(n){return arguments.length?void(x?x(this).setProperty(e,n):this[t]=n):this[t]} has function(n){return arguments.length?void(x?x(this).setProperty(e,n):this[t]=n):this[t]} money now.
 index.html:21 The book is at function(n){return arguments.length?void(x?x(this).setProperty(e,n):this[t]=n):this[t]} price.
 index.html:42 Transcation successful. function(n){return arguments.length?void(x?x(this).setProperty(e,n):this[t]=n):this[t]} has purchased a book -- function(n){return arguments.length?void(x?x(this).setProperty(e,n):this[t]=n):this[t]}
@@ -135,7 +135,7 @@ index.html:46 The person function(n){return arguments.length?void(x?x(this).setP
 index.html:21 The book is at function(n){return arguments.length?void(x?x(this).setProperty(e,n):this[t]=n):this[t]} price.
 index.html:42 Transcation successful. function(n){return arguments.length?void(x?x(this).setProperty(e,n):this[t]=n):this[t]} has purchased a book -- function(n){return arguments.length?void(x?x(this).setProperty(e,n):this[t]=n):this[t]}
 index.html:46 The person function(n){return arguments.length?void(x?x(this).setProperty(e,n):this[t]=n):this[t]} has NaN money now.
-```
+\`\`\`
 ```
 
 <img width="349" alt="image" src="https://github.com/user-attachments/assets/929ec022-7283-43e0-a12f-63c0784c2d9b" />
