@@ -44,9 +44,11 @@ nico.name("Akari");
 >
 > <img width="610" alt="image" src="https://github.com/user-attachments/assets/01574b0e-2006-4035-9375-a63c48a9f56e" />
 >
-> Or see the answer from Google Gemini.
 
 ## chat with Google Gemini
+> [!WARNING]
+> Never copy and pasted modified code by Google Gemini (since it produce incorrect code that prints unexpected output on the console.)
+
 I ask
 
 ```
